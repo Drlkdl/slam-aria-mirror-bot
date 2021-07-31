@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "directlinkdownloadertele",
+  "private_key_id": "455c486bea258c6fcee2873622d2efde1a0bf311",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6P1H9B22NdhOP\ne/kLb0E5lSLLsTtwd+iNoTvSrarYsW8Py2nyI+vMIwRg5AYRu2YKRplQ4xqf5MBv\nQh259NAUqUMf/zwR7tfiL4K9JJ9KK/tbWn9pFvlXT2jY29NFPofbCT/EjLpJvI+n\nv2EWiJMBlRcctsx5kSPG8UjmznDFZ5Hx5QSqAxWVjVOjm8JamuEA5vDJAyhBBqx9\nrlckpKqGQJEY13l9v8sfaR5nTFGTvi9pJ0ii1+tM3VjWlHzprn5pETfWmaP7dx2/\nvtUejdqhL4JFgVD0tcRuWj846pVgoziMUjL66vqgV60TGwI62s9SOxOu5YCDT8ma\nM3GPxndHAgMBAAECggEASGAN4NmPmX7OiB4hf++KdbF+NZCYbBK0tMD4qdyh/RYq\ndgVSlO2flpLvAyXpM9/SfeDEeHngYU03+KRFP/uiFr1V3+vD8KYTj4pt8El4ew7P\nXUc0JubuGx85O7hlB84OZjBYbu1PARN88a99r4+ALQe+VQK2P/GGaStfbI3Bpfv3\n9NXMGPs33/pCUxm5NygaQceGgjQLvcvnEchN/ooqeXouLVR90mqGQUn06zD8OQIL\noT6KHyqxghYI6fvp9ygWth8ZM3T6oo8xSaamCuFl9n6yUpFJYPfBk4VoO02sBp5a\nQfoBHB2c1hGK3yrwNPKvWUwUcoWP85rmeT1px1UGqQKBgQD2lbuhm+gDaT6e4Jrk\nzHIwb2GMOK/7xS113ZiYQB5kBsBzEAJrrOUOl63jlSXdQNNyLMmnXv8+50rdBUfd\nbm8MCEztQKppEQwnBO/v1KWBBGcdpOJuI/GqgZBjTxzjLUGYT0k33Gv2EK3MK13t\nItqB2Lyq4lYk+VDiUicoklEb7wKBgQDBW8/0aN4KoxnYL72ehniRq3FBdv5FFnPG\nUn1VhNKUhoUulw/L5o2kBSxrJP//BuAtnAoLLRcnsnhDUKAClCGO9Cvt9fHSmGpF\nkHb0HDEMQhTtD5lVMehO6AoCLyxrBj+8nKrc6V0rCJNbibBQA81/KCsn8T6pANjr\nyxuCO+DiKQKBgQDGRiXmT++idojkxaOm4AHdkmH0l0xifO0N/k4J9ly5f3hVzQS1\nQgO41Rv8iFw26T5ca0kGrOs+0EoxKGLd2UOvgCkjCME91HhaE60+wlUGRd0ISCHO\nAFb9DEtmnyGSRjydVPuB0Fp7NHQbXK+c006x4+3o1jAAcPypzvcvt19CvwKBgG5t\nNNJsoYKJq1Tfzvcd7PWkZ8XvYz+plu0IZzPT6z+Po7f75bWZMgMeQUPfmaPYFWd2\n2fWQBs1RC4XGIdvXJWMy53O7JiQTj32zB3xaLVjG1JSed/9DxVxrAGxG7KMiqnvZ\nLWuEiwTsnNuGQv8vbMjV8++XwyVZqojfMhKqh8AhAoGBAI7OdZogEA39EpnglQ9O\nY+7nKsgZ48ZzOhkPcrE3eQtSfEHwfjcxj1xQYsoNPLXv/OZZqqQkrAHwSe9B2Jy+\niKa1pRGfhUPrFxudOrVYNuwwFSYJFnjIQPSq3y4WtwAaagK8+Y28wuOoQ9PV6ySL\n2VMZN2t5lqZ0HyYkyxb4yvwg\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-l3sxbaxykk9yqq5mo7ikqqgah9@directlinkdownloadertele.iam.gserviceaccount.com",
+  "client_id": "111003114702851800865",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-l3sxbaxykk9yqq5mo7ikqqgah9%40directlinkdownloadertele.iam.gserviceaccount.com"
+}
